@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6126484-05ad-4bf2-a290-80c017e275c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Terremoto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TerremotoAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TerremotoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cidade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ITemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ITerremoto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TemperaturaAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TemperaturaCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TerremotoMagnitude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TemperaturaFahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TerremotoEfeito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TemperaturaKelvin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diagrama UML/Captura de tela em 2022-11-17 21-53-54.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
